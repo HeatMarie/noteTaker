@@ -24,9 +24,9 @@ That thing you can create so you can take notes and forget to use them.
 
 #### Task
 
-- Build a Node.js command-line application that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person. 
+- Modify starter code to create a note taking application that uses Express.js back end.
 
-- Testing is key to making code maintainable, so you'll also write a unit test for every part of your code and ensures that it passes each test. 
+- This app should save and retrieve note data from a JSON file. (which it does ;D)  
 
 ## Installation
 
